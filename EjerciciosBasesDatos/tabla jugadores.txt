@@ -1,0 +1,8 @@
+create table jugadores(
+ id int,
+ nombre varchar(30),
+ edad int,
+ altura float (4),
+ nombreequipo varchar (30),
+ primary key (id)
+ );
