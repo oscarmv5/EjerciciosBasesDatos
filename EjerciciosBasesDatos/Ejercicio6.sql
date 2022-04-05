@@ -11,5 +11,5 @@ BEGIN
 	END IF;
     RETURN par;
 END $$
-    delimiter ;
-SELECT falsoverdadero();
+delimiter ;
+
